@@ -171,6 +171,7 @@
     <BundleResource Include="oasissmall.jpg" />
     <Content Include="coffee%402x.png" />
     <BundleResource Include="Resources\invalidimage.jpg" />
+    <BundleResource Include="Resources\photo.jpg" />
     <Content Include="settings%402x.png" />
     <Content Include="menuIcon%402x.png" />
     <Content Include="crimsonsmall.jpg" />
